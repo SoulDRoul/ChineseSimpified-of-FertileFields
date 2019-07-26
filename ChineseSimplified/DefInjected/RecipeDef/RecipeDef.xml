@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SplitDirt.label>从泥土中提取沙子和粘土</SplitDirt.label>
+	<SplitDirt.description>把沙子和粘土从一堆泥土中分离出来。</SplitDirt.description>
+	<SplitDirt.jobString>正在分离泥土。</SplitDirt.jobString>
+	
+	<DirtToClay.label>把三块泥土变成四块粘土</DirtToClay.label>
+	<DirtToClay.description>将泥土直接转化为粘土。(比起先把泥土分成粘土和沙子，然后再把沙子磨成粘土，产生的粘土产量更低。)</DirtToClay.description>
+	<DirtToClay.jobString>正在制作粘土。</DirtToClay.jobString>
+	
+	<SplitDirt2.label>从泥土中提取沙子和粘土</SplitDirt2.label>
+	<SplitDirt2.description>把沙子和粘土从一堆泥土中分离出来。</SplitDirt2.description>
+	<SplitDirt2.jobString>正在分离泥土。</SplitDirt2.jobString>
+	
+	<DirtToClay2.label>把三块泥土变成五块粘土</DirtToClay2.label>
+	<DirtToClay2.description>将泥土直接转化为粘土。(比起先把泥土分成粘土和沙子，然后再把沙子磨成粘土，产生的粘土产量更低。)</DirtToClay2.description>
+	<DirtToClay2.jobString>正在制作粘土。</DirtToClay2.jobString>
+	
+	<MakeBricks.label>做12块砖</MakeBricks.label>
+	<MakeBricks.description>用模具和火烧粘土来制砖。</MakeBricks.description>
+	<MakeBricks.jobString>正在制砖。</MakeBricks.jobString>
+	
+	<MakeFastBricks.label>做24块砖</MakeFastBricks.label>
+	<MakeFastBricks.description>用模具和火烧粘土来制砖。</MakeFastBricks.description>
+	<MakeFastBricks.jobString>正在制砖。</MakeFastBricks.jobString>
+	
+	<MakeCrushedRocksSlow.label>做两份碎石（慢）</MakeCrushedRocksSlow.label>
+	<MakeCrushedRocksSlow.description>把石块打碎成碎石。</MakeCrushedRocksSlow.description>
+	<MakeCrushedRocksSlow.jobString>正在打碎石块。</MakeCrushedRocksSlow.jobString>
+	
+	<MakeCrushedRocksSlowBlock.label>用石砖制作碎石（慢）</MakeCrushedRocksSlowBlock.label>
+	<MakeCrushedRocksSlowBlock.description>把石砖打碎成碎石。</MakeCrushedRocksSlowBlock.description>
+	<MakeCrushedRocksSlowBlock.jobString>正在打碎石砖。</MakeCrushedRocksSlowBlock.jobString>
+	
+	<MakeSandSlow.label>制作沙子（慢）</MakeSandSlow.label>
+	<MakeSandSlow.description>进一步打碎碎石形成沙子。</MakeSandSlow.description>
+	<MakeSandSlow.jobString>正在制作沙子。</MakeSandSlow.jobString>
+	
+	<MakeCrushedRocks.label>做两份碎石</MakeCrushedRocks.label>
+	<MakeCrushedRocks.description>把石块打碎成碎石。</MakeCrushedRocks.description>
+	<MakeCrushedRocks.jobString>正在打碎石块。</MakeCrushedRocks.jobString>
+	
+	<MakeCrushedRocksBlock.label>用石砖制作碎石</MakeCrushedRocksBlock.label>
+	<MakeCrushedRocksBlock.description>把石砖打碎成碎石。</MakeCrushedRocksBlock.description>
+	<MakeCrushedRocksBlock.jobString>正在打碎石砖。</MakeCrushedRocksBlock.jobString>
+	
+	<MakeSand.label>制作沙子</MakeSand.label>
+	<MakeSand.description>进一步打碎碎石形成沙子。</MakeSand.description>
+	<MakeSand.jobString>正在制作沙子。</MakeSand.jobString>
+	
+	<MakeClay.label>制作粘土</MakeClay.label>
+	<MakeClay.description>把沙子磨成更细的颗粒，制成粘土。</MakeClay.description>
+	<MakeClay.jobString>正在制作粘土。</MakeClay.jobString>
+	
+	<MakeDirt.label>制作两份泥土</MakeDirt.label>
+	<MakeDirt.description>用沙子、粘土和肥料制作泥土。</MakeDirt.description>
+	<MakeDirt.jobString>正在制作泥土。</MakeDirt.jobString>
+	
+	<MakeDirtEfficient.label>制作两份泥土（效率）</MakeDirtEfficient.label>
+	<MakeDirtEfficient.description>用沙子、粘土和肥料制作泥土。</MakeDirtEfficient.description>
+	<MakeDirtEfficient.jobString>正在制作泥土。</MakeDirtEfficient.jobString>
+	
+	<MakeCrushedRocks5.label>制作10份碎石</MakeCrushedRocks5.label>
+	<MakeCrushedRocks5.description>把石块打碎成碎石。</MakeCrushedRocks5.description>
+	<MakeCrushedRocks5.jobString>正在打碎石块。</MakeCrushedRocks5.jobString>
+	
+	<MakeSand5.label>制作5份沙子</MakeSand5.label>
+	<MakeSand5.description>进一步打碎碎石形成沙子。</MakeSand5.description>
+	<MakeSand5.jobString>正在制作沙子。</MakeSand5.jobString>
+	
+	<MakeClay5.label>制作5份粘土</MakeClay5.label>
+	<MakeClay5.description>把沙子磨成更细的颗粒，制成粘土。</MakeClay5.description>
+	<MakeClay5.jobString>正在制作粘土。</MakeClay5.jobString>
+	
+	<MakeDirt5.label>制作10份泥土</MakeDirt5.label>
+	<MakeDirt5.description>用沙子、粘土和肥料制作泥土。</MakeDirt5.description>
+	<MakeDirt5.jobString>正在制作泥土。</MakeDirt5.jobString>
+	
+	<MakeDirt5Efficient.label>制作10份泥土（效率）</MakeDirt5Efficient.label>
+	<MakeDirt5Efficient.description>用沙子、粘土和肥料制作泥土。</MakeDirt5Efficient.description>
+	<MakeDirt5Efficient.jobString>正在制作泥土。</MakeDirt5Efficient.jobString>
+	
+	<MakeCompost.label>制作未经处理的堆肥</MakeCompost.label>
+	<MakeCompost.description>用有机垃圾(生肉和植物)制作未经处理的堆肥。</MakeCompost.description>
+	<MakeCompost.jobString>正在制作未经处理的堆肥。</MakeCompost.jobString>
+	
+	<MakeCompost5.label>制作5份未经处理的堆肥</MakeCompost5.label>
+	<MakeCompost5.description>制作未经处理的堆肥。</MakeCompost5.description>
+	<MakeCompost5.jobString>正在制作未经处理的堆肥。</MakeCompost5.jobString>
+	
+	<CompostCorpse.label>把尸体烧成未经处理的堆肥（电力火化炉）</CompostCorpse.label>
+	<CompostCorpse.description>将尸体火化成未经处理的堆肥。</CompostCorpse.description>
+	<CompostCorpse.jobString>正在火化。</CompostCorpse.jobString>
+	
+	<CompostCorpseCampfire.label>把尸体烧成未经处理的堆肥（篝火）</CompostCorpseCampfire.label>
+	<CompostCorpseCampfire.description>在篝火上将尸体火化成未经处理的堆肥。比在电力火化炉的效率低。</CompostCorpseCampfire.description>
+	<CompostCorpseCampfire.jobString>正在火化。</CompostCorpseCampfire.jobString>
+	
+	<Make_StoneBlocksAnyRM.label>制作石砖（任意）</Make_StoneBlocksAnyRM.label>
+	<Make_StoneBlocksAnyRM.description>将岩石块切割成可用的石块。</Make_StoneBlocksAnyRM.description>
+	<Make_StoneBlocksAnyRM.jobString>正在切割石材。</Make_StoneBlocksAnyRM.jobString>
+	
+	<Make_StoneBlocksSandstoneRM.label>制作砂岩砖</Make_StoneBlocksSandstoneRM.label>
+	<Make_StoneBlocksSandstoneRM.description>将砂岩块切割成可用的砖块。</Make_StoneBlocksSandstoneRM.description>
+	<Make_StoneBlocksSandstoneRM.jobString>正在切割石材。</Make_StoneBlocksSandstoneRM.jobString>
+	
+	<Make_StoneBlocksGraniteRM.label>制作花岗岩砖</Make_StoneBlocksGraniteRM.label>
+	<Make_StoneBlocksGraniteRM.description>将花岗岩块切割成可用的砖块。</Make_StoneBlocksGraniteRM.description>
+	<Make_StoneBlocksGraniteRM.jobString>正在切割石材。</Make_StoneBlocksGraniteRM.jobString>
+	
+	<Make_StoneBlocksLimestoneRM.label>制作石灰岩砖</Make_StoneBlocksLimestoneRM.label>
+	<Make_StoneBlocksLimestoneRM.description>将石灰岩块切割成可用的砖块。</Make_StoneBlocksLimestoneRM.description>
+	<Make_StoneBlocksLimestoneRM.jobString>正在切割石材。</Make_StoneBlocksLimestoneRM.jobString>
+	
+	<Make_StoneBlocksSlateRM.label>制作板岩砖</Make_StoneBlocksSlateRM.label>
+	<Make_StoneBlocksSlateRM.description>将板岩块切割成可用的砖块。</Make_StoneBlocksSlateRM.description>
+	<Make_StoneBlocksSlateRM.jobString>正在切割石材。</Make_StoneBlocksSlateRM.jobString>
+	
+	<Make_StoneBlocksMarbleRM.label>制作大理石砖</Make_StoneBlocksMarbleRM.label>
+	<Make_StoneBlocksMarbleRM.description>将大理石块切割成可用的砖块。</Make_StoneBlocksMarbleRM.description>
+	<Make_StoneBlocksMarbleRM.jobString>正在切割石材。</Make_StoneBlocksMarbleRM.jobString>
+	
+</LanguageData>

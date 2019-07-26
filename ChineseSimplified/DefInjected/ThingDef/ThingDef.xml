@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RawCompost.label>未经处理的堆肥</RawCompost.label>
+	<RawCompost.description>厨余垃圾的混合物。相当恶心，但如果你想制造肥料，这很有用。</RawCompost.description>
+
+	<Fertilizer.label>肥料</Fertilizer.label>
+	<Fertilizer.description>肥料可以改善土壤以加速植物的生长。</Fertilizer.description>
+
+	<CrushedRocks.label>碎石</CrushedRocks.label>
+	<CrushedRocks.description>石块被打碎成小块的产物。</CrushedRocks.description>
+
+	<PileofDirt.label>泥土堆</PileofDirt.label>
+	<PileofDirt.description>从地里挖出的纯质土壤。</PileofDirt.description>
+
+	<SandPile.label>沙堆</SandPile.label>
+	<SandPile.description>沙子，有可能是从沙漠或海滩上挖出来的。</SandPile.description>
+
+	<RFFClay.label>粘土</RFFClay.label>
+	<RFFClay.description>粘土。可以通过模制和烧制来制作砖块，也可以与沙子和肥料混合制作更好的泥土。</RFFClay.description>
+
+	<PlantScraps.label>植物废料</PlantScraps.label>
+	<PlantScraps.description>从被切断的植物上取下的树枝，根茎和叶子。用于制作堆肥，或者用于喂养动物。</PlantScraps.description>
+
+	<RottedMush.label>烂糊糊</RottedMush.label>
+	<RottedMush.description>不管过去是什么，现在只是一堆令人作呕的腐烂糊状物。也许对制作堆肥有用，但对其他东西没什么用处。</RottedMush.description>
+
+	<RFFBricks.label>砖块</RFFBricks.label>
+	<RFFBricks.description>用烧制的粘土制成的经典砖块。</RFFBricks.description>
+
+	<BrickWall.label>砖墙</BrickWall.label>
+	<BrickWall.description>用粘土砖和灰泥建造的墙。</BrickWall.description>
+
+	<RockMill.label>石磨机</RockMill.label>
+	<RockMill.description>一种用于粉碎和混合石头、沙子和泥土的电动粉碎机。</RockMill.description>
+
+	<Terraform_RockyDirt-Stone.label>坚石土-岩石</Terraform_RockyDirt-Stone.label>
+	<Terraform_RockyDirt-Stone.description>地形：坚石土。\n形成：粗糙的岩石。</Terraform_RockyDirt-Stone.description>
+
+	<Terraform_Stone-RockyDirt.label>岩石-坚石土</Terraform_Stone-RockyDirt.label>
+	<Terraform_Stone-RockyDirt.description>地形：粗糙或光滑的岩石。\n形成：坚石土。\n获得：石块(偶尔)。</Terraform_Stone-RockyDirt.description>
+
+	<Terraform_Sand-RockyDirt.label>沙地-坚石土</Terraform_Sand-RockyDirt.label>
+	<Terraform_Sand-RockyDirt.description>地形：沙地或软沙地。\n形成：坚石土。\n获得：两堆沙子。</Terraform_Sand-RockyDirt.description>
+
+	<Terraform_Gravel-RockyDirt.label>砾石地-坚石土</Terraform_Gravel-RockyDirt.label>
+	<Terraform_Gravel-RockyDirt.description>地形：砾石地。\n形成：坚石土。\n获得：两堆沙子、粘土和碎石。</Terraform_Gravel-RockyDirt.description>
+
+	<Terraform_SoilF-RockyDirt.label>土地-坚石土</Terraform_SoilF-RockyDirt.label>
+	<Terraform_SoilF-RockyDirt.description>地形：肥沃的土壤。\n形成：坚石土。\n获得：三堆泥土。</Terraform_SoilF-RockyDirt.description>
+
+	<Terraform_SoilMarshy-RockyDirt.label>沼泽土-坚石土</Terraform_SoilMarshy-RockyDirt.label>
+	<Terraform_SoilMarshy-RockyDirt.description>地形：沼泽土。\n形成：坚石土。\n获得：两堆泥土。</Terraform_SoilMarshy-RockyDirt.description>
+
+	<Terraform_RockyDirt-Sand.label>坚石土-沙地</Terraform_RockyDirt-Sand.label>
+	<Terraform_RockyDirt-Sand.description>地形：坚石土。\n形成：沙地。</Terraform_RockyDirt-Sand.description>
+
+	<Terraform_Gravel-Sand.label>砾石地-沙地</Terraform_Gravel-Sand.label>
+	<Terraform_Gravel-Sand.description>地形：砾石地。\n形成：沙地。\n获得：粘土和碎石。</Terraform_Gravel-Sand.description>
+
+	<Terraform_SoilF-Sand.label>土地-沙地</Terraform_SoilF-Sand.label>
+	<Terraform_SoilF-Sand.description>地形：肥沃的土地。\n形成：沙地。\n获得：一堆泥土、粘土和碎石。</Terraform_SoilF-Sand.description>
+
+	<Terraform_WaterShallow-Sand.label>浅水-沙地</Terraform_WaterShallow-Sand.label>
+	<Terraform_WaterShallow-Sand.description>地形：浅水。\n形成：沙地。</Terraform_WaterShallow-Sand.description>
+
+	<Terraform_RockyDirt-Gravel.label>坚石土-砾石地</Terraform_RockyDirt-Gravel.label>
+	<Terraform_RockyDirt-Gravel.description>地形：坚石土。\n形成：砾石地。</Terraform_RockyDirt-Gravel.description>
+
+	<Terraform_Sand-Gravel.label>沙地-砾石地</Terraform_Sand-Gravel.label>
+	<Terraform_Sand-Gravel.description>地形：沙地或软沙地。\n形成：砾石地。</Terraform_Sand-Gravel.description>
+
+	<Terraform_SoilF-Gravel.label>土地-砾石地</Terraform_SoilF-Gravel.label>
+	<Terraform_SoilF-Gravel.description>地形：肥沃的土壤。\n形成：砾石地。\n获得：一堆泥土。</Terraform_SoilF-Gravel.description>
+
+	<Terraform_SoilF-PackedDirt.label>土地-夯土</Terraform_SoilF-PackedDirt.label>
+	<Terraform_SoilF-PackedDirt.description>地形：土地。\n形成：压紧的泥土。</Terraform_SoilF-PackedDirt.description>
+
+	<Terraform_Sand-SoilF.label>沙地-土地</Terraform_Sand-SoilF.label>
+	<Terraform_Sand-SoilF.description>地形：沙地或软沙地。\n形成：土地。</Terraform_Sand-SoilF.description>
+
+	<Terraform_Gravel-SoilF.label>砾石地-土地</Terraform_Gravel-SoilF.label>
+	<Terraform_Gravel-SoilF.description>地形：砾石地。\n形成：土地。</Terraform_Gravel-SoilF.description>
+
+	<Terraform_PackedDirt-SoilF.label>夯土-土地</Terraform_PackedDirt-SoilF.label>
+	<Terraform_PackedDirt-SoilF.description>地形：压紧的泥土。\n形成：土地。</Terraform_PackedDirt-SoilF.description>
+
+	<Terraform_Mud-SoilF.label>泥地-土地</Terraform_Mud-SoilF.label>
+	<Terraform_Mud-SoilF.description>地形：泥地。\n形成：土地。</Terraform_Mud-SoilF.description>
+
+	<Terraform_SoilMarshy-SoilF.label>沼泽土-土地</Terraform_SoilMarshy-SoilF.label>
+	<Terraform_SoilMarshy-SoilF.description>地形：沼泽土。\n形成：土地。</Terraform_SoilMarshy-SoilF.description>
+
+	<Terraform_Marsh-SoilF.label>沼泽-土地</Terraform_Marsh-SoilF.label>
+	<Terraform_Marsh-SoilF.description>地形：沼泽。\n形成：土地。</Terraform_Marsh-SoilF.description>
+
+	<Terraform_SoilF-Mud.label>土地-泥地</Terraform_SoilF-Mud.label>
+	<Terraform_SoilF-Mud.description>地形：土地。\n形成：泥地。</Terraform_SoilF-Mud.description>
+
+	<Terraform_SoilMarshy-Mud.label>沼泽土-泥地</Terraform_SoilMarshy-Mud.label>
+	<Terraform_SoilMarshy-Mud.description>地形：沼泽土。\n形成：泥地。</Terraform_SoilMarshy-Mud.description>
+
+	<Terraform_SoilF-SoilMarshy.label>土地-沼泽土</Terraform_SoilF-SoilMarshy.label>
+	<Terraform_SoilF-SoilMarshy.description>地形：土地。\n形成：沼泽土。\n获得：一堆泥土。</Terraform_SoilF-SoilMarshy.description>
+
+	<Terraform_Mud-SoilMarshy.label>泥地-沼泽土</Terraform_Mud-SoilMarshy.label>
+	<Terraform_Mud-SoilMarshy.description>地形：泥地。\n形成：沼泽土。\n获得：一堆泥土。</Terraform_Mud-SoilMarshy.description>
+
+	<Terraform_Marsh-SoilMarshy.label>沼泽-沼泽土</Terraform_Marsh-SoilMarshy.label>
+	<Terraform_Marsh-SoilMarshy.description>地形：沼泽。\n形成：沼泽土。</Terraform_Marsh-SoilMarshy.description>
+	
+	<Terraform_SoilMarshy-Marsh.label>沼泽土-沼泽</Terraform_SoilMarshy-Marsh.label>
+	<Terraform_SoilMarshy-Marsh.description>地形：沼泽土。\n形成：沼泽。</Terraform_SoilMarshy-Marsh.description>
+
+	<Terraform_SoilF-Marsh.label>土地-沼泽</Terraform_SoilF-Marsh.label>
+	<Terraform_SoilF-Marsh.description>地形：土地。\n形成：沼泽。\n获得：两堆泥土。</Terraform_SoilF-Marsh.description>
+
+	<Terraform_WaterShallow-Marsh.label>浅水-沼泽</Terraform_WaterShallow-Marsh.label>
+	<Terraform_WaterShallow-Marsh.description>地形：浅水。\n形成：沼泽。</Terraform_WaterShallow-Marsh.description>
+
+	<Terraform_Sand-WaterShallow.label>沙地-浅水</Terraform_Sand-WaterShallow.label>
+	<Terraform_Sand-WaterShallow.description>地形：沙子或软沙子(接近水源)。\n形成：浅水。\n获得：五堆沙子和五块碎石。</Terraform_Sand-WaterShallow.description>
+
+	<Terraform_Marsh-WaterShallow.label>沼泽-浅水</Terraform_Marsh-WaterShallow.label>
+	<Terraform_Marsh-WaterShallow.description>地形：沼泽。\n形成：浅水。\n获得：五堆泥土。</Terraform_Marsh-WaterShallow.description>
+
+	<Terraform_WaterDeep-WaterShallow.label>深水-浅水</Terraform_WaterDeep-WaterShallow.label>
+	<Terraform_WaterDeep-WaterShallow.description>地形：深水。\n形成：浅水。</Terraform_WaterDeep-WaterShallow.description>
+
+	<Terraform_Ice-WaterShallow.label>移除冰面</Terraform_Ice-WaterShallow.label>
+	<Terraform_Ice-WaterShallow.description>地形：冰面。\n形成：浅水(在“海洋冰盖”地图上)或浅水或坚石土(在其他地图上)。</Terraform_Ice-WaterShallow.description>
+
+	<Terraform_WaterShallow-WaterDeep.label>浅水-深水</Terraform_WaterShallow-WaterDeep.label>
+	<Terraform_WaterShallow-WaterDeep.description>地形：浅水。\n形成：深水。\n获得：十堆泥土。\n\n注意：在地图上放置不可逾越的地形可能会破坏游戏。小心使用！</Terraform_WaterShallow-WaterDeep.description>
+
+	<Terraform_Stone-Topsoil.label>岩石-表层土</Terraform_Stone-Topsoil.label>
+	<Terraform_Stone-Topsoil.description>地形：光滑的岩石或冰面。\n形成：表层土。\n\n注意:不像大多数地形类型，表层土可以移除于“移除地板”！</Terraform_Stone-Topsoil.description>
+
+	<Terraform_Topsoil-DirtFert.label>表层土施肥</Terraform_Topsoil-DirtFert.label>
+	<Terraform_Topsoil-DirtFert.description>地形：表层土。\n形成：施肥的表层土。\n\n注意:像普通的表土一样，施肥的表层土可以移除于“移除地板”！此外，根据MOD的设置，施过肥的表层土在作物收获后可能会恢复成正常的表层土，需要重新施肥。</Terraform_Topsoil-DirtFert.description>
+
+	<Terraform_SoilF-SoilRich.label>肥沃的土地</Terraform_SoilF-SoilRich.label>
+	<Terraform_SoilF-SoilRich.description>地形：土地或地衣覆盖的泥土。\n形成：肥沃的土地。\n\n根据MOD的设置，肥沃的土地在作物收获后可能会恢复成普通的土地，需要重新施肥。</Terraform_SoilF-SoilRich.description>
+
+	<Terraform_SoilRich-SoilTilled.label>耕地</Terraform_SoilRich-SoilTilled.label>
+	<Terraform_SoilRich-SoilTilled.description>地形：肥沃的土地。\n形成：耕地。\n\n耕地可以移除于“移除地板”。并且，根据MOD的设置，耕地在作物收获后可能会恢复成肥沃的土地，需要重新翻耕。</Terraform_SoilRich-SoilTilled.description>
+
+	<CompostBin.label>堆肥箱</CompostBin.label>
+	<CompostBin.description>让未经处理的堆肥经过三天半后变成肥料的箱子。不过这个箱子有点难看，而且有点臭。</CompostBin.description>
+
+	<CompostBarrel.label>堆肥桶</CompostBarrel.label>
+	<CompostBarrel.description>一个堆肥桶能将30个未经处理的堆肥转化为30个肥料。不像堆肥箱，它需要电力才能运作。</CompostBarrel.description>
+
+	<HeavySandbags.label>沉重的沙袋</HeavySandbags.label>
+	<HeavySandbags.description>高品质的皮革袋用泥土或沙子填满，通过钢棒支撑在地面上。沙袋很难看，但是可以很好的掩护远程攻击。</HeavySandbags.description>
+</LanguageData>

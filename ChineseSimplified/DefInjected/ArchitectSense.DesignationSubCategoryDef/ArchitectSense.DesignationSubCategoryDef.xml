@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<SubCategory_Stone.label>岩石</SubCategory_Stone.label>
+	<SubCategory_Stone.description>把地形改造成粗糙的岩石。</SubCategory_Stone.description>
+	
+	<SubCategory_RockyDirt.label>坚石土</SubCategory_RockyDirt.label>
+	<SubCategory_RockyDirt.description>把地形改造成坚石土。</SubCategory_RockyDirt.description>
+		
+	<SubCategory_Sand.label>沙地</SubCategory_Sand.label>
+	<SubCategory_Sand.description>把地形改造成沙地。</SubCategory_Sand.description>
+		
+	<SubCategory_Gravel.label>砾石地</SubCategory_Gravel.label>
+	<SubCategory_Gravel.description>把地形改造成砾石地。</SubCategory_Gravel.description>
+		
+	<SubCategory_PackedDirt.label>夯土</SubCategory_PackedDirt.label>
+	<SubCategory_PackedDirt.description>把地形改造成压紧的泥土。</SubCategory_PackedDirt.description>
+		
+	<SubCategory_Soil.label>土地</SubCategory_Soil.label>
+	<SubCategory_Soil.description>把地形改造成肥沃的土壤。</SubCategory_Soil.description>
+		
+	<SubCategory_Mud.label>泥地</SubCategory_Mud.label>
+	<SubCategory_Mud.description>把地形改造成泥地。</SubCategory_Mud.description>
+		
+	<SubCategory_SoilMarshy.label>沼泽土</SubCategory_SoilMarshy.label>
+	<SubCategory_SoilMarshy.description>把地形改造成沼泽土。</SubCategory_SoilMarshy.description>
+		
+	<SubCategory_Marsh.label>沼泽</SubCategory_Marsh.label>
+	<SubCategory_Marsh.description>把地形改造成沼泽。</SubCategory_Marsh.description>
+	
+	<SubCategory_WaterShallow.label>浅水</SubCategory_WaterShallow.label>
+	<SubCategory_WaterShallow.description>把地形改造成浅水。</SubCategory_WaterShallow.description>
+		
+	<SubCategory_WaterDeep.label>深水</SubCategory_WaterDeep.label>
+	<SubCategory_WaterDeep.description>把地形改造成深水。\n警告: 在地图上放置一个不可通过的地形是危险的，可能会导致小人无法行动。有一定风险！</SubCategory_WaterDeep.description>
+
+</LanguageData>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RFF.FertileFields>雨男的沃土/雷恩博的沃土/Rainbeau's Fertile Fields</RFF.FertileFields>
+
+	<!-- ===== PlaceWorker Errors ===== -->
+
+	<RFF.Unplaceable>不能置于{0}</RFF.Unplaceable>
+	<RFF.HardMode>不允许进入"硬核模式"</RFF.HardMode>
+	
+	<!-- ===== Mass-Based Recipes ===== -->
+
+	<RFF.BillRequires>需要 {0} kg </RFF.BillRequires>
+	
+	<!-- ===== Composting ===== -->
+
+	<RFF.Progress>进度:</RFF.Progress>
+	<RFF.NullMapHeld>试图达到堆肥桶的温度，但是地图不支持。</RFF.NullMapHeld>
+	<RFF.FullOfFert>试图在装满肥料的桶里加入生的堆肥。 殖民者应该先把肥料拿出来。</RFF.FullOfFert>
+	<RFF.ContainsFert>包含肥料:</RFF.ContainsFert>
+	<RFF.ContainsComp>包含未加工的堆肥:</RFF.ContainsComp>
+	<RFF.Composted>堆肥</RFF.Composted>
+	<RFF.CompProg>堆肥进度:</RFF.CompProg>
+	<RFF.OutOfTemp>堆肥桶温度超过理想温度:</RFF.OutOfTemp>
+	<RFF.Temp>温度:</RFF.Temp>
+	<RFF.IdealTemp>理想的堆肥温度:</RFF.IdealTemp>
+	<RFF.NotReady>肥料还没有准备好。</RFF.NotReady>
+	<RFF.BadTemp>不适宜的温度</RFF.BadTemp>
+	<RFF.NoComp>不包含未经处理的堆肥</RFF.NoComp>
+
+	<!-- ===== Options ===== -->
+	
+	<RFF.FarmingOptions>农业选项:</RFF.FarmingOptions>
+	
+	<RFF.DegradeChancePlowed>作物收获时耕地退化为肥沃土壤的机率:</RFF.DegradeChancePlowed>
+	<RFF.DegradeChanceRich>作物收获时肥沃土壤退化为正常土壤的机率:</RFF.DegradeChanceRich>
+	
+	<RFF.AutoRefertilize>自动再施肥。</RFF.AutoRefertilize>
+	<RFF.AutoRefertilizeTip>默认情况下，当肥沃土壤退化为正常土壤时，在种植任何新作物之前，它将自动被标记施肥。如果您喜欢自己决定什么时候应该施肥田地(例如，如果您没有现成的肥料供应，并且不希望您的土地闲置) ，取消选中此选项。</RFF.AutoRefertilizeTip>
+
+	<RFF.AutoReplow>自动再耕地。</RFF.AutoReplow>
+	<RFF.AutoReplowTip>默认情况下，当耕地退化为肥沃土壤时，在种植任何新作物之前，它会自动被标记重新耕作。如果你喜欢自己决定什么时候应该耕作田地(例如，如果你没有现成的肥料供应，并且不希望你的土地闲置) ，取消选中此选项。</RFF.AutoReplowTip>
+
+	<RFF.AutoRecompost>自动再堆肥。</RFF.AutoRecompost>
+	<RFF.AutoRecompostTip>默认情况下，当堆肥箱变成肥料时，它会自动留下新堆肥箱的蓝图。如果您不希望这种情况发生，请取消选中此选项。</RFF.AutoRecompostTip>
+	
+	<RFF.TerraformingOptions>一般选项:</RFF.TerraformingOptions>
+
+	<RFF.PlayHardMode>关于"硬核模式"</RFF.PlayHardMode>
+	<RFF.PlayHardModeTip>“硬核模式”禁用MOD的不太现实的地形转换。你不能从冰盖或海冰图上移除冰面，不能在同类地图上创建泥地、湿地或沼泽，也不能在任何地图上创建或移除深海水域。(创造或清除深水或浅水的能力不受影响。)</RFF.PlayHardModeTip>
+
+	<RFF.PlantScraps>切割/收获的植物废料产生几率:</RFF.PlantScraps>
+	
+	<RFF.CompressedMenu>使用压缩的"地形重塑"菜单.</RFF.CompressedMenu>
+	<RFF.CompressedMenuTip>默认情况下，Mod压缩了建筑菜单的“ 地形重塑”选项卡，以便产生任何特定最终结果的各种转换选项被分组为“子菜单”。如果您更喜欢旧的系统, 那是立即可见的，只要取消选择这个就好。但是请注意，在游戏重新开始之前，对此设置的更改不会立即生效。</RFF.CompressedMenuTip>
+	
+</LanguageData>

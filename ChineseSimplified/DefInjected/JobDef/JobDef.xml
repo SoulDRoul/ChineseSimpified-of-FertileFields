@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<FillCompostBarrel.reportString>装满堆肥桶</FillCompostBarrel.reportString>
+
+	<EmptyCompostBarrel.reportString>清空堆肥桶</EmptyCompostBarrel.reportString>
+
+	<FinishFrameGrowing.reportString>正在耕作中</FinishFrameGrowing.reportString>
+
+	<FinishFrameConstruction.reportString>地形改造中</FinishFrameConstruction.reportString>
+
+</LanguageData>

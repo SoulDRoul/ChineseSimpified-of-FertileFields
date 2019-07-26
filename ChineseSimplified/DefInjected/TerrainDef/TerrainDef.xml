@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<BrickFloor.label>砖砌地板</BrickFloor.label>
+	<BrickFloor.description>用粘土砖铺成的地板很不错。</BrickFloor.description>
+
+	<HBBrickFloor.label>人字形砖砌地板</HBBrickFloor.label>
+	<HBBrickFloor.description>粘土砖排列成奇特的人字形图案。比标准的砖地板多一点工作量，但也多一点吸引力。</HBBrickFloor.description>
+
+	<RockySoil.label>粗糙的砂砾</RockySoil.label>
+
+	<Topsoil.label>表层土</Topsoil.label>
+
+	<DirtFert.label>施肥的表层土</DirtFert.label>
+
+	<SoilTilled.label>耕地</SoilTilled.label>
+
+</LanguageData>

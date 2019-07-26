@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<RFF_Farming.label>耕作</RFF_Farming.label>
+	<RFF_Farming.description>这项研究代表了先进的农业技术，如耕作，超越了简单的土壤施肥。它允许耕种土壤，这样即使是天然肥沃的土壤也能得到改良。它还允许表层土壤分层在光滑的石头上，这样农场就可以在不适宜居住的环境中或山区内建立起来。</RFF_Farming.description>
+
+	<RFF_Terraforming.label>地形重塑</RFF_Terraforming.label>
+	<RFF_Terraforming.description>地形重塑代表了先进的灌溉和排水方法的知识，允许各种各样的地形转换。例如，沙子、沼泽、泥土或浅水可以变成可耕地。人工湖可以创造出来。而且石头地板可以被打碎，变成真正的土壤。</RFF_Terraforming.description>
+
+</LanguageData>
